@@ -27,7 +27,7 @@ const App = () => {
     setCount(count + 1);
   };
   const nameFilter = (evt) => {
-    setShow(evt.target.p);
+    setShow(evt.target.value);
   };
   const clickToDelete = (evt) => {
     evt.preventDefault();
