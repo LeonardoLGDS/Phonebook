@@ -1,2 +1,4 @@
 # Phonebook
-Created with CodeSandbox
+
+Practice - React components, events & state management
+
